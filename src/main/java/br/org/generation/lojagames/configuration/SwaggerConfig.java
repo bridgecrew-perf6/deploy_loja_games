@@ -20,7 +20,7 @@ public class SwaggerConfig {
 		
 		return new OpenAPI()
 				.info(new Info()
-						.title("Projeto Loja de Games")
+						.title("Projeto Loja Gen Games")
 						.description("Projeto Loja de Games - Generation Brasil")
 						.version("v0.0.1")
 	            .license(new License()
